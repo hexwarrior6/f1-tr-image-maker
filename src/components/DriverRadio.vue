@@ -56,7 +56,7 @@ export default {
     },
     teamMercedes: {
       type: String,
-      default: 'mercedes-80-0x-800-2.png'
+      default: 'mercedes.png'
     }
   }
 };
